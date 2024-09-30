@@ -1,0 +1,21 @@
+{
+  "name": "ejercicio-seminario-4",
+  "version": "1.0.0",
+  "main": "ejercicio3.ts",
+  "scripts": {
+    "start": "ts-node src/ejercicio3.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^8.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
